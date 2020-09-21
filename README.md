@@ -5,9 +5,9 @@ OCNG689-Advanced Python for Geoscience
 
 ## 2020 Fall TAMU
 
-Datasets
+**Datasets**
 
-NAM-ANL,Historical data
+-NAM-ANL,Historical data
 
 Atmospheric data analysis for Copano Bay:
 [link](https://www.ncei.noaa.gov/thredds/catalog/model-namanl-old/catalog.html)
